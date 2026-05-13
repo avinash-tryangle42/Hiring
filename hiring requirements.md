@@ -3,7 +3,7 @@
 ### **Hiring Strategy Overview**
 
 * **Total Target Headcount:** 4 Core Engineers.
-* **The "Alex" Profile (P0):** 1x Owner-level Frontend (React Native Veteran).
+* **The Best Profile (P0):** 1x Owner-level Frontend (React Native Veteran).
 * **The Backend Owner (P0):** 1x Senior Backend/Infra (Agentic Architecture Specialist).
 * **The Implementation Engine:** 2x Full-Stack Juniors (2–4 yrs experience).
 
