@@ -36,7 +36,7 @@
 ### **Core Requirements**
 
 * **Durable Execution:** Expert in state machines, resumable task logic, retries/compensation patterns (Temporal or equivalent).
-* **Agent Orchestration:** Practical implementation of ReAct patterns, DAG-based task planning, and dynamic subtask replanning.
+* **Agent Orchestration:** Practical implementation of ReAct patterns and dynamic subtask replanning.
 * **MCP Mastery:** Deep understanding of Model Context Protocol (JSON-RPC 2.0), tool discovery, and resource modeling.
 * **Intelligence Layer:** Designing strict JSON Schemas for Global Intent Detection (GID) and managing high-accuracy RAG pipelines.
 * **Security & Trust:** Built-in PII redaction, audit logging, and first-class "Consent & Approval" state management.
